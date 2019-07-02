@@ -1,0 +1,29 @@
+body{
+	background-color:yellow;
+	background-image: url("barbie");
+}
+
+h1{
+	background-color:blue;
+	border-width:5px
+	border-color:white;
+	border-style:solid;
+	padding: 20px;
+	text-align: center;
+	border-bottom-style: solid;
+	margin-top: 100px;
+	margin-bottom: 200px;
+	margin-right: 300px;
+	margin-left: 100px;
+	height: 100px;
+	width: 50%;
+	background-color: purple;
+	font-family:"times new roman", times serif;
+}
+
+img.barbie{width: 200px;}
+
+header ul li a:hover{text-decoration: underline;
+font-weight: bold;
+background-color: red;
+color: yellow;}
