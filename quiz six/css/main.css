@@ -1,0 +1,33 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+.content{
+	width: 500px;
+	margin: 40px auto;
+}
+.content table{
+	width: 100%;
+	background-color: blue;
+	text-align: left;
+	border:1px solid #999;
+	border-collapse: collapse;
+
+}
+.content table tr {
+	border-bottom: 1px solid #999;
+}
+.content table tr td{
+	padding: 10px;
+	border-right: 1px solid #999;
+}
+.content table tr th{
+	padding: 10px;
+	border-right: 1px solid #aaa;
+}
+.content table tr td;last-child{
+	border-right: none;
+}
+.content table tr td;last-child td;last-child{
+	background-color: red;
+}

@@ -1,0 +1,16 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+.content{
+	width: 600px;
+	margin: 0px auto;
+}
+.media{
+	width: 600px;
+	min-height: 300px;
+	margin: 0px;
+}
+.media.app{
+	
+}
