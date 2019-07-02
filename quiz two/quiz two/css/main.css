@@ -1,0 +1,19 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color:grey;}
+
+	.container{
+		height: 150px;
+		width: 600px;
+		background-color: red;
+		border:5px dotted blue;
+		padding:30px;
+		margin: 30px auto;
+	}
+	.container p{
+		margin :0px;
+		padding:0px;
+
+	}
+
